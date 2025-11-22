@@ -1,0 +1,53 @@
+Epoch 1/10: 100%|███████████████████████████████████████████████████| 53/53 [11:08<00:00, 12.62s/it]
+Epoch [1/10] - Loss: 0.8528, Accuracy: 0.6802
+Epoch 2/10:  51%|█████████████████████████▉                         | 27/53 [07:42<05:26, 12.57s/it]C:\Users\josia\miniconda3\envs\breathenv\Lib\site-packages\PIL\Image.py:1043: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+Epoch 2/10: 100%|███████████████████████████████████████████████████| 53/53 [13:23<00:00, 15.16s/it]
+Epoch [2/10] - Loss: 0.1200, Accuracy: 0.9606
+Epoch 3/10:  53%|██████████████████████████▉                        | 28/53 [06:18<05:19, 12.76s/it]C:\Users\josia\miniconda3\envs\breathenv\Lib\site-packages\PIL\Image.py:1043: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+Epoch 3/10: 100%|███████████████████████████████████████████████████| 53/53 [12:11<00:00, 13.81s/it]      
+Epoch [3/10] - Loss: 0.1429, Accuracy: 0.9547
+Epoch 4/10:  53%|██████████████████████████▉                        | 28/53 [08:11<06:14, 14.98s/it]C:\Users\josia\miniconda3\envs\breathenv\Lib\site-packages\PIL\Image.py:1043: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+Epoch 4/10: 100%|███████████████████████████████████████████████████| 53/53 [13:10<00:00, 14.92s/it]      
+Epoch [4/10] - Loss: 0.0741, Accuracy: 0.9773
+Epoch 5/10:   0%|                                                            | 0/53 [00:00<?, ?it/s]C:\Users\josia\miniconda3\envs\breathenv\Lib\site-packages\PIL\Image.py:1043: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+Epoch 5/10: 100%|███████████████████████████████████████████████████| 53/53 [13:33<00:00, 15.35s/it]      
+Epoch [5/10] - Loss: 0.0135, Accuracy: 0.9988
+Epoch 6/10:  23%|███████████▌                                       | 12/53 [03:10<08:46, 12.85s/it]C:\Users\josia\miniconda3\envs\breathenv\Lib\site-packages\PIL\Image.py:1043: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+Epoch 6/10: 100%|███████████████████████████████████████████████████| 53/53 [12:32<00:00, 14.20s/it]
+Epoch [6/10] - Loss: 0.0011, Accuracy: 1.0000
+Epoch 7/10:  23%|███████████▌                                       | 12/53 [02:24<06:53, 10.10s/it]C:\Users\josia\miniconda3\envs\breathenv\Lib\site-packages\PIL\Image.py:1043: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+Epoch 7/10: 100%|███████████████████████████████████████████████████| 53/53 [09:20<00:00, 10.58s/it]
+Epoch [7/10] - Loss: 0.0001, Accuracy: 1.0000
+Epoch 8/10:  72%|████████████████████████████████████▌              | 38/53 [07:11<02:34, 10.27s/it]C:\Users\josia\miniconda3\envs\breathenv\Lib\site-packages\PIL\Image.py:1043: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+Epoch 8/10: 100%|███████████████████████████████████████████████████| 53/53 [09:39<00:00, 10.93s/it]
+Epoch [8/10] - Loss: 0.0000, Accuracy: 1.0000
+Epoch 9/10:  43%|██████████████████████▏                            | 23/53 [04:53<05:37, 11.24s/it]C:\Users\josia\miniconda3\envs\breathenv\Lib\site-packages\PIL\Image.py:1043: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+Epoch 9/10: 100%|███████████████████████████████████████████████████| 53/53 [10:20<00:00, 11.71s/it]
+Epoch [9/10] - Loss: 0.0000, Accuracy: 1.0000
+Epoch 10/10:  19%|█████████▍                                        | 10/53 [02:11<07:41, 10.74s/it]C:\Users\josia\miniconda3\envs\breathenv\Lib\site-packages\PIL\Image.py:1043: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+Epoch 10/10: 100%|██████████████████████████████████████████████████| 53/53 [09:27<00:00, 10.70s/it]
+Epoch [10/10] - Loss: 0.0000, Accuracy: 1.0000
+Evaluating ViT model...
+Loss: 0.1552, Accuracy: 0.9741
+Resuming Training ViT model for 5 more epochs...
+Epoch 1/5:  70%|████████████████████████████████████▌               | 19/27 [06:16<02:50, 21.28s/it]C:\Users\josia\miniconda3\envs\breathenv\Lib\site-packages\PIL\Image.py:1043: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+Epoch 1/5: 100%|████████████████████████████████████████████████████| 27/27 [08:39<00:00, 19.24s/it]
+Epoch [1/5] - Loss: 0.0000, Accuracy: 1.0000
+Epoch 2/5: 100%|████████████████████████████████████████████████████| 27/27 [07:38<00:00, 16.98s/it]
+Epoch [2/5] - Loss: 0.0000, Accuracy: 1.0000
+Epoch 3/5: 100%|████████████████████████████████████████████████████| 27/27 [08:38<00:00, 19.19s/it]
+Epoch [3/5] - Loss: 0.0000, Accuracy: 1.0000
+Epoch 4/5: 100%|████████████████████████████████████████████████████| 27/27 [08:55<00:00, 19.82s/it]
+Epoch [4/5] - Loss: 0.0000, Accuracy: 1.0000
+Epoch 5/5: 100%|████████████████████████████████████████████████████| 27/27 [08:11<00:00, 18.20s/it]
+Epoch [5/5] - Loss: 0.0000, Accuracy: 1.0000

@@ -1,0 +1,80 @@
+(breathenv) PS C:\Users\josia\Documents\test dl> & C:/Users/josia/miniconda3/envs/breathenv/python.exe "c:/Users/josia/Documents/test dl/main.py"
+Using device: cpu
+Loaded ViT model and optimizer from checkpoint.
+Evaluating ViT model before DeiT training...
+Loss: 0.1552, Accuracy: 0.9741
+Training DeiT model...
+Epoch [1/10], Batch [0/53], Loss: 1.5965
+Epoch [1/10], Batch [10/53], Loss: 0.6679
+Epoch [1/10], Batch [20/53], Loss: 0.4098
+C:\Users\josia\miniconda3\envs\breathenv\Lib\site-packages\PIL\Image.py:1043: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+Epoch [1/10], Batch [30/53], Loss: 0.3476
+Epoch [1/10], Batch [40/53], Loss: 0.0487
+Epoch [1/10], Batch [50/53], Loss: 0.0208
+Epoch [1/10], Loss: 0.3888, Accuracy: 86.16%
+Epoch [2/10], Batch [0/53], Loss: 0.0161
+Epoch [2/10], Batch [10/53], Loss: 0.0290
+Epoch [2/10], Batch [20/53], Loss: 0.0024
+Epoch [2/10], Batch [30/53], Loss: 0.0023
+Epoch [2/10], Batch [40/53], Loss: 0.0107
+Epoch [2/10], Batch [50/53], Loss: 0.0044
+Epoch [2/10], Loss: 0.0107, Accuracy: 99.88%
+Epoch [3/10], Batch [0/53], Loss: 0.0023
+Epoch [3/10], Batch [10/53], Loss: 0.0011
+Epoch [3/10], Batch [20/53], Loss: 0.0016
+Epoch [3/10], Batch [30/53], Loss: 0.0019
+Epoch [3/10], Batch [40/53], Loss: 0.0025
+Epoch [3/10], Batch [50/53], Loss: 0.0035
+Epoch [3/10], Loss: 0.0174, Accuracy: 99.52%
+Epoch [4/10], Batch [0/53], Loss: 0.0027
+Epoch [4/10], Batch [10/53], Loss: 0.0030
+Epoch [4/10], Batch [20/53], Loss: 0.0012
+Epoch [4/10], Batch [30/53], Loss: 0.0041
+Epoch [4/10], Batch [40/53], Loss: 0.0016
+Epoch [4/10], Batch [50/53], Loss: 0.0050
+Epoch [4/10], Loss: 0.0032, Accuracy: 100.00%
+Epoch [5/10], Batch [0/53], Loss: 0.0009
+Epoch [5/10], Batch [10/53], Loss: 0.0014
+Epoch [5/10], Batch [20/53], Loss: 0.0003
+Epoch [5/10], Batch [30/53], Loss: 0.0005
+Epoch [5/10], Batch [40/53], Loss: 0.0005
+Epoch [5/10], Batch [50/53], Loss: 0.0008
+Epoch [5/10], Loss: 0.0006, Accuracy: 100.00%
+Epoch [6/10], Batch [0/53], Loss: 0.0007
+Epoch [6/10], Batch [10/53], Loss: 0.0005
+Epoch [6/10], Batch [20/53], Loss: 0.0003
+Epoch [6/10], Batch [30/53], Loss: 0.0003
+Epoch [6/10], Batch [40/53], Loss: 0.0003
+Epoch [6/10], Batch [50/53], Loss: 0.0003
+Epoch [6/10], Loss: 0.0004, Accuracy: 100.00%
+Epoch [7/10], Batch [0/53], Loss: 0.0003
+Epoch [7/10], Batch [10/53], Loss: 0.0004
+Epoch [7/10], Batch [20/53], Loss: 0.0003
+Epoch [7/10], Batch [30/53], Loss: 0.0003
+Epoch [7/10], Batch [40/53], Loss: 0.0004
+Epoch [7/10], Batch [50/53], Loss: 0.0004
+Epoch [7/10], Loss: 0.0003, Accuracy: 100.00%
+Epoch [8/10], Batch [0/53], Loss: 0.0004
+Epoch [8/10], Batch [10/53], Loss: 0.0003
+Epoch [8/10], Batch [20/53], Loss: 0.0002
+Epoch [8/10], Batch [30/53], Loss: 0.0003
+Epoch [8/10], Batch [40/53], Loss: 0.0003
+Epoch [8/10], Batch [50/53], Loss: 0.0002
+Epoch [8/10], Loss: 0.0003, Accuracy: 100.00%
+Epoch [9/10], Batch [0/53], Loss: 0.0002
+Epoch [9/10], Batch [10/53], Loss: 0.0002
+Epoch [9/10], Batch [20/53], Loss: 0.0004
+Epoch [9/10], Batch [30/53], Loss: 0.0002
+Epoch [9/10], Batch [40/53], Loss: 0.0002
+Epoch [9/10], Batch [50/53], Loss: 0.0002
+Epoch [9/10], Loss: 0.0002, Accuracy: 100.00%
+Epoch [10/10], Batch [0/53], Loss: 0.0002
+Epoch [10/10], Batch [10/53], Loss: 0.0001
+Epoch [10/10], Batch [20/53], Loss: 0.0001
+Epoch [10/10], Batch [30/53], Loss: 0.0002
+Epoch [10/10], Batch [40/53], Loss: 0.0002
+Epoch [10/10], Batch [50/53], Loss: 0.0002
+Epoch [10/10], Loss: 0.0002, Accuracy: 100.00%
+Evaluating DeiT model...
+Loss: 0.0937, Accuracy: 0.9815
