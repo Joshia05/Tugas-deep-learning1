@@ -53,7 +53,6 @@ Dataset ini memiliki 838 gambar untuk **training** dan 270 gambar untuk **testin
    - Confusion matrix untuk mengevaluasi hasil klasifikasi.
 
 # Struktur Direktori
-
 Tugas-Deep-Learning-Eksplorasi-Vision-Transformer/ (root folder)
 ├── .git/ (Folder git yang berisi konfigurasi repositori)
 ├── data/ (Folder untuk dataset)
