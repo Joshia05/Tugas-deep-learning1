@@ -53,4 +53,28 @@ Dataset ini memiliki 838 gambar untuk **training** dan 270 gambar untuk **testin
    - Confusion matrix untuk mengevaluasi hasil klasifikasi.
 
 ## Struktur Direktori
+Tugas-Deep-Learning-Eksplorasi-Vision-Transformer/  (root folder)
+│
+├── .git/                               (Folder git yang berisi konfigurasi repositori)
+│
+├── data/                               (Folder untuk dataset)
+│   ├── train/                          (Gambar untuk pelatihan)
+│   └── test/                           (Gambar untuk pengujian)
+│
+├── models/                             (Folder untuk model ViT dan DeiT)
+│   ├── vit_model.py                    (Definisi model Vision Transformer)
+│   ├── deit_model.py                   (Definisi model Data-efficient Transformer)
+│
+├── utils/                              (Folder untuk utilitas seperti fungsi training, evaluasi)
+│   ├── train.py                        (Script untuk proses training)
+│   └── eval.py                         (Script untuk proses evaluasi)
+│
+├── output/                             (Folder untuk output hasil model)
+│   ├── results/                        (Hasil percakapan dan laporan, grafik, confusion matrix)
+│   └── logs/                           (Log training dan testing)
+│
+├── main.py                             (Script utama untuk menjalankan eksperimen)
+├── requirements.txt                    (File dependencies Python)
+├── README.md                           (Deskripsi tentang proyek)
+├── .gitignore                          (File untuk menentukan file apa yang tidak dilacak oleh Git)
 
