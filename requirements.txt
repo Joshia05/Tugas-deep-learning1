@@ -1,0 +1,17 @@
+torch
+transformers
+timm
+pytorch-lightning
+matplotlib
+import torch
+import torch.nn as nn
+import torch.optim as optim
+import torchvision
+from torchvision import transforms, datasets
+from torch.utils.data import DataLoader
+import os
+import time
+import matplotlib.pyplot as plt
+from utils import train, eval, metrics
+from models.deit_model import DeiT
+from models.vit_model import ViT
